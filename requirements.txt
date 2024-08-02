@@ -2,6 +2,7 @@
 catboost==1.0.4
 cloudpickle==2.0.0
 
+gunicorn==22.0.0
 fastapi==0.70.0
 flask==2.1.0
 
